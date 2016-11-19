@@ -16,14 +16,14 @@ h1 {
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }
 ul.navbar li {
-  background: white;
+  background: green;
   margin: 0.5em 0;
   padding: 0.3em;
   border-right: 1em solid black }
 ul.navbar a {
   text-decoration: none }
 a:link {
-  color: blue }
+  color: red }
 a:visited {
   color: purple }
 address {
